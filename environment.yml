@@ -1,0 +1,9 @@
+name: ncdl
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - matplotlib
+  - numpy
+  - pip
+  - python=3.12
