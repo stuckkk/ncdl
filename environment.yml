@@ -6,4 +6,7 @@ dependencies:
   - matplotlib
   - numpy
   - pip
+  - jax
+  - pytorch-cpu
+  - torchvision
   - python=3.12
